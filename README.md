@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning how to use ai agents into my projects<br>🎯 Goals: build and mantain scallable applications<br>🎲 Fun fact: lo-fi is the best playlist to focus on the code</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning how grafana works and integrates into my project<br>🎯 Goals: build and mantain scallable applications<br>🎲 Fun fact: lo-fi is the best playlist to focus on the code</p>
 
 ###
 
